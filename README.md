@@ -11,6 +11,9 @@
 ## Introduction
 This is an AI-powered Interview Preparation Bot. This project aims to help job seekers enhance their interview skills by providing personalized mock interviews, tailored feedback, and actionable insights for improvement.
 
+## Demo
+![Demo](https://raw.githubusercontent.com/vijaykarthiktk/ai-powered-interview-bot/refs/heads/main/assets/demo.mov)
+
 ## Features
 - [x] Role-Specific Questions 
 - [x] Mock Interview Simulation
